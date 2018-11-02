@@ -1,2 +1,2 @@
 a new text file
-some changes 
+some changes to my text file
